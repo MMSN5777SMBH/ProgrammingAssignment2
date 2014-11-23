@@ -1,4 +1,4 @@
-###	 Example: Caching the Inverse of a Vector
+###	 Example: Caching the Inverse of a Matrix
 ##
 ##	In the following code, the `<<-` operator is used.
 ##	It assigns a value to an object in an environment that is different from the
